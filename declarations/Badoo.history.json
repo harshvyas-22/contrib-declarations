@@ -1,0 +1,9 @@
+{
+  "Privacy Policy": [
+    {
+      "fetch": "https://badoo.com/privacy/",
+      "select": ".formatted-text",
+      "validUntil": "2023-10-02T19:44:31Z"
+    }
+  ]
+}
